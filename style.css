@@ -8,9 +8,13 @@ header{
 	text-align: center;
 	padding: 4;
 }
-content{
+section{
 	background: green;
 	color: white;
 	text-align: center;
-	
+}
+footer{
+	background: purple;
+	color:red;
+	text-align: center;
 }
