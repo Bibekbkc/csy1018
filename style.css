@@ -1,0 +1,16 @@
+body{
+	margin: 0;padding: 0;
+
+}
+header{
+	background: red;
+	color: blue;
+	text-align: center;
+	padding: 4;
+}
+content{
+	background: green;
+	color: white;
+	text-align: center;
+	
+}
